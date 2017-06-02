@@ -1,4 +1,4 @@
-var URL = "http://testcode.hd/angularjsCrud";
+var URL = "http://localhost/crud_mysql_angular";
 app.controller('ItemController', function(dataFactory,$scope,$http){
  
   $scope.data = [];
